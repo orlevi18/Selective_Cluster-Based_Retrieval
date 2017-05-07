@@ -2,8 +2,11 @@
 CIKM '16 Proceedings of the 25th ACM International Conference on Information and Knowledge Management
 
 Or Levi	      Technion - Israel Institute of Technology, Haifa, Israel
+
 Fiana Raiber	Technion - Israel Institute of Technology, Haifa, Israel
+
 Oren Kurland	Technion - Israel Institute of Technology, Haifa, Israel
+
 Ido Guy       Yahoo Research & Ben-Gurion University of the Negev, Haifa, Israel
 
 # Abstract
