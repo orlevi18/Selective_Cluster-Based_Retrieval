@@ -1,5 +1,6 @@
 # Selective Cluster-Based Document Retrieval
 CIKM '16 Proceedings of the 25th ACM International Conference on Information and Knowledge Management
+http://dl.acm.org/citation.cfm?id=2983737
 
 Or Levi	      Technion - Israel Institute of Technology, Haifa, Israel
 
